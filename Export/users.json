@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "6381833e87ba751cd26f6f09"
+  },
+  "Name": "Mahmoud Abdel Moshen",
+  "userName": "Miho",
+  "Password": "1234",
+  "Birthday": {
+    "$date": {
+      "$numberLong": "477619200000"
+    }
+  },
+  "favoritMovies": [
+    {
+      "$oid": "63817da587ba751cd26f6f00"
+    },
+    {
+      "$oid": "63817da587ba751cd26f6f01"
+    },
+    {
+      "$oid": "63817da587ba751cd26f6f04"
+    },
+    {
+      "$oid": "63817da587ba751cd26f6f06"
+    },
+    {
+      "$oid": "63817da587ba751cd26f6f08"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6381833e87ba751cd26f6f0a"
+  },
+  "Name": "Baklawa",
+  "userName": "Biho",
+  "Password": "1234",
+  "Birthday": {
+    "$date": {
+      "$numberLong": "801705600000"
+    }
+  },
+  "favoritMovies": [
+    {
+      "$oid": "63817da587ba751cd26f6f01"
+    },
+    {
+      "$oid": "63817da587ba751cd26f6f04"
+    },
+    {
+      "$oid": "63817da587ba751cd26f6f06"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6381833e87ba751cd26f6f0b"
+  },
+  "Name": "Hakuna matata",
+  "userName": "hoppa",
+  "Password": "1234",
+  "Birthday": {
+    "$date": {
+      "$numberLong": "177638400000"
+    }
+  },
+  "favoritMovies": [
+    {
+      "$oid": "63817da587ba751cd26f6f04"
+    },
+    {
+      "$oid": "63817da587ba751cd26f6f06"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6381833e87ba751cd26f6f0c"
+  },
+  "Name": "Mohamed Ali",
+  "userName": "ali",
+  "Password": "1234",
+  "Birthday": {
+    "$date": {
+      "$numberLong": "918518400000"
+    }
+  },
+  "favoritMovies": [
+    {
+      "$oid": "63817da587ba751cd26f6f00"
+    },
+    {
+      "$oid": "63817da587ba751cd26f6f01"
+    },
+    {
+      "$oid": "63817da587ba751cd26f6f04"
+    },
+    {
+      "$oid": "63817da587ba751cd26f6f06"
+    }
+  ]
+}]
